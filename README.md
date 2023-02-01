@@ -40,7 +40,7 @@
 <p align="center">
 <img width="6%" title="Idea" src="/image/logo/Idea.svg">
 <img width="6%" title="Java" src="image/logo/Java.svg">
-<img width="6%" title="Selenide" src="image/logo/Selenide.svg">
+<img width="6%" title="Rest assured" src="image/logo/resr.png">
 <img width="6%" title="Allure Report" src="image/logo/Allure.svg">
 <img width="6%" title="Maven" src="image/logo/maven.png">
 <img width="6%" title="JUnit4" src="image/logo/junit.png">
